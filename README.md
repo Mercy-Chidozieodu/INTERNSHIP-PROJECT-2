@@ -1,4 +1,4 @@
-📊 Internship Project 2 – Northwind Traders_Retail and supply chain.
+Track A Internship Project – Northwind Traders_Retail and supply chain.
 
 📌 Project Overview
 
